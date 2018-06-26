@@ -1,5 +1,5 @@
 # opencv-framegrabber
-  Przedmiot: Przetwarzanie obrazów cyfrowych i sekwencji wideo w Open CV
+  <b>Przedmiot:</b> Przetwarzanie obrazów cyfrowych i sekwencji wideo w Open CV
   
   Prowadzący: Marcin Ciecholewski
   
