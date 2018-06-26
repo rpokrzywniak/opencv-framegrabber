@@ -1,7 +1,7 @@
 # opencv-framegrabber
   <b>Przedmiot:</b> Przetwarzanie obrazów cyfrowych i sekwencji wideo w Open CV
   
-  Prowadzący: Marcin Ciecholewski
+  <b>Prowadzący:</b> Marcin Ciecholewski
   
   Napisać uproszczony ‘frame grabber’. Program, ten będzie przetwarzał plik filmowy a także obraz
 rejestrowany z kamery na określoną liczbę klatek w postaci plików graficznych oraz pozwalał na łączenie
